@@ -1,3 +1,3 @@
 # hello-world
 first repository - for learning
-Hi I'm c- healey, a software developernewbie here to learn.
+Hi I'm c- healey and new to using github.
